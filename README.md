@@ -9,6 +9,12 @@ With over 10 years of experience in state of art technologies field, I've had th
 My primary focus is emerging technologies such as RPA automations and AI innovations, where I specialize in building innovative solutions and applications leveraging the latest trending technologies.  I have extensive knowledge of RPA automations, C#, Python, cloud AI tools on AWS and Azure, and more.
 I love working with high end tech because it allows me to combine my creativity with problem-solving skills to deliver exceptional user experiences.
 
+### Tech Stack 💻 
+
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+
 <!--
 **sabrinagomes1000/sabrinagomes1000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
